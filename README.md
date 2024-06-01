@@ -1,1 +1,9 @@
-Hey everyone! I'm Vishnu, a student at SRM who is super into Robotics, AI, Machine Learning, and Web Development. I love putting all these cool tech pieces together to make awesome stuff. From smart algorithms to user-friendly websites, I'm on a mission to learn and make tech magic happen. Let's connect and geek out together!
+👨‍💼 Vishnu | Student at SRM University | Tech Enthusiast
+
+🚀 Proficient in AI, Machine Learning, Robotics and Web Development.
+
+💼 Actively engaged in refining my skills through practical projects and academic coursework at SRM University.
+
+🔍 Seeking opportunities to contribute to meaningful open-source projects and collaborate with fellow developers.
+
+📈 Let's innovate and code for a brighter tomorrow!
