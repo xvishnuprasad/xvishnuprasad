@@ -1,7 +1,9 @@
 # 👋 Hello World! I'm Vishnu Prasad  
 
-<div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF on the left"/>
+  <h2 style="text-align: center; flex-grow: 1;">🌟 Student | Developer | Innovator 🌟</h2>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF on the right"/>
 </div>  
 
 ---
