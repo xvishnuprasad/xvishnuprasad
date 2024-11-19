@@ -1,18 +1,14 @@
 # 👋 Hello World! I'm Vishnu Prasad  
 
-![Coding Boy GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
-
----
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/SRM_Institute_of_Science_and_Technology_logo.svg/1024px-SRM_Institute_of_Science_and_Technology_logo.svg.png" alt="SRM University Logo" width="120"/>
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </div>  
 
 ---
 
 ### 🌟 About Me  
 
-Hi there! I’m **Vishnu Prasad**, a **tech enthusiast** and **B.Tech AI & ML student at SRM University**, always excited to learn and grow. I believe in creating solutions that make a difference, whether through innovative projects or meaningful collaborations.
+Hi there! I’m **Vishnu Prasad**, a **tech enthusiast** and **B.Tech AI & ML student**, always excited to learn and grow. I believe in creating solutions that make a difference, whether through innovative projects or meaningful collaborations.
 
 - 💻 **Fields of Interest**: Artificial Intelligence, Robotics, Web Development, and Automation.  
 - 🔨 **Currently Working On**: Cool projects in **AI** and **open-source development**.  
@@ -38,6 +34,7 @@ Hi there! I’m **Vishnu Prasad**, a **tech enthusiast** and **B.Tech AI & ML st
 </div>  
 
 ---
+
 
 
 ### 📬 Connect with Me  
