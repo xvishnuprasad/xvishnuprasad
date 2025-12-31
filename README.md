@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Vishnu Prasad  
+#  Hello World! I'm Vishnu Prasad  
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF on the left"/>
@@ -6,14 +6,14 @@
 
 ---
 
-### 🌟 About Me  
+### About Me  
 
 Hi there! I’m **Vishnu Prasad**, a **tech enthusiast** and **B.Tech AI & ML student**, always excited to learn and grow. I believe in creating solutions that make a difference, whether through innovative projects or meaningful collaborations.
 
-- 💻 **Fields of Interest**: Artificial Intelligence, Robotics, Web Development, and Automation.  
-- 🔨 **Currently Working On**: Cool projects in **AI** and **open-source development**.  
-- 🤝 **Collaboration**: Open to working on impactful projects and learning with fellow developers.  
-- 🎯 **Goal**: To continuously improve, contribute to the tech community, and solve real-world problems with code.
+- **Fields of Interest**: Artificial Intelligence, Robotics, Web Development, and Automation.  
+- **Currently Working On**: Cool projects in **AI** and **open-source development**.  
+- **Collaboration**: Open to working on impactful projects and learning with fellow developers.  
+- **Goal**: To continuously improve, contribute to the tech community, and solve real-world problems with code.
 
 ---
 
@@ -45,7 +45,7 @@ Hi there! I’m **Vishnu Prasad**, a **tech enthusiast** and **B.Tech AI & ML st
 </div>
 
 ---
-### 💭 Philosophy
+### Philosophy
 
 ```
 while (alive) {
@@ -57,7 +57,7 @@ while (alive) {
 ```
 
 
-### 📬 Connect with Me  
+###  Connect with Me  
 
 <div>
   <a href="https://www.instagram.com/xvishnuprasad/">
@@ -71,14 +71,6 @@ while (alive) {
   </a>
 </div>  
 
----
-
-### 📈 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xvishnuprasad&show_icons=true&theme=tokyonight" alt="Vishnu's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvishnuprasad&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</div>  
 
 ---
 
